@@ -3,7 +3,7 @@ import React from 'react';
 
 const NavBar = () => {
     return (
-        <div id = "header">
+        <div>
             <div id='logo'>
                 <h2>Car-wow</h2>
             </div>
@@ -14,7 +14,7 @@ const NavBar = () => {
                     <li>Contact</li>
                 </ul>
             </div>
-        </div>
+        </div>    
     );
 
     
